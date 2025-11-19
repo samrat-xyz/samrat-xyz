@@ -17,7 +17,7 @@ I'm **MD.SAMRAT**, a passionate and dedicated **MERN Stack Developer** focused o
 
 ---
 
-## 🚀 My Tech Stack
+## 🖥️ My Tech Stack
 
 ### 🎨 Frontend
 
