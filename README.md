@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/ymp4yQD6/Gemini-Generated-Image-13j3213j3213j321.png" alt="MD.SAMRAT MERN Stack Developer Banner" width="100%" />
+  <img src="https://i.ibb.co.com/trcRBbL/Black-and-White-Modern-Clean-Professional-Programmer-Linked-In-Background.png" alt="MD.SAMRAT MERN Stack Developer Banner" width="100%" />
 </p>
 
 <p align="left">
