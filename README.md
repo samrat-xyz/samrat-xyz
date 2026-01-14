@@ -68,10 +68,17 @@ I'm **MD.SAMRAT**, a passionate and dedicated **MERN Stack Developer** focused o
 ## 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samrat-xyz&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=samrat-xyz&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" width="45%" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=samrat-xyz&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800"
+    alt="GitHub Stats"
+    width="48%"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=samrat-xyz&layout=compact&theme=dark&hide_border=true&cache_seconds=1800"
+    alt="Top Languages"
+    width="48%"
+  />
 </p>
-
 
 
 
